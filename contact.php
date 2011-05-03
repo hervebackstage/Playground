@@ -1,12 +1,12 @@
-<?php include('header.php'); ?>
+<?php include('includes/header.php'); ?>
 
-<?php include('left.php'); ?>
+<?php include('includes/left.php'); ?>
 <div class="main">
 	<div class="main-column">
 		<p>Contact us</p>
 		<p>Get in touch with us</p>
 	</div>
-	<?php include('right.php'); ?>
+	<?php include('includes/right.php'); ?>
 </div>
 
-<?php include('footer.php'); ?>
+<?php include('includes/footer.php'); ?>

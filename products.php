@@ -1,21 +1,12 @@
-<?php include('header.php'); ?>
+<?php include('includes/header.php'); ?>
 
-<div class="left">
-	<ul>
-		<li>about us</li>
-		<li>contact us</li>
-		<li>products</li>
-		<li>blog</li>
-	</ul>
-</div>
+<?php include('includes/left.php'); ?>
 <div class="main">
 	<div class="main-column">
 		<p>Blog</p>
 		<p>My comment is ...</p>
 	</div>
-	<div class="right">
-		
-	</div>
+	<?php include('includes/right.php'); ?>
 </div>
 
-<?php include('footer.php'); ?>
+<?php include('includes/footer.php'); ?>

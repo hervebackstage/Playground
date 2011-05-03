@@ -1,4 +1,4 @@
-<a href="index.php"><img src="branded-keeper-logo.gif" /></a>
+<a href="index.php"><img src="Images/branded-keeper-logo.gif" /></a>
 
 <br />
 <?php

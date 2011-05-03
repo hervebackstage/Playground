@@ -3,8 +3,8 @@
 <?php include('Includes/left.php'); ?>
 <div class="main">
 	<div class="main-column">
-		<p>Blog</p>
-		<p>My comment is ...</p>
+		<p>Products</p>
+		<p>Browse through the products ...</p>
 	</div>
 	<?php include('Includes/right.php'); ?>
 </div>

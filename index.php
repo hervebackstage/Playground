@@ -1,9 +1,10 @@
 <?php
-echo 'Hello world';
+echo 'Hello world<br>';
 ?>
-This is some text to describe the first page of the site. Welcome to the site PLayground. Its aim is to play with Git to learn to commit with this repository tool.
+<p>This is some text to describe the first page of the site.</p>
+<p> Welcome to the site PLayground. Its aim is to play with Git to learn to commit with this repository tool.</p>
 
 <img src="branded-keeper-logo.gif" />
 
-This is the footer of the site
+<p>This is the footer of the site</p>
 
